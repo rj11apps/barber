@@ -2,6 +2,7 @@ RABADON'S DEATHCAP (3400)
 
 +100 ABILITY POWER
 +7% MAGIC PENETRATION
+
 UNIQUE - OVERKILL: Increases ability power by 20-45% (based on level)
 
 Imagen: https://www.wildriftfire.com/images/items/rabadons-deathcap.png
@@ -11,6 +12,7 @@ MORTAL REMINDER (3300)
 
 +30 ATTACK DAMAGE
 +25% CRITICAL STRIKE CHANCE
+
 UNIQUE - LAST WHISPER: +33% armor penetration.
 
 UNIQUE-Sepsis: Dealing physical damage to enemy champions applies 50% Grievous Wounds for 3 seconds.
@@ -24,6 +26,7 @@ HEARTSTEEL (2800)
 +700 HEALTH
 +150 HEALTH REGENERATION
 +20 ABILITY HASTE
+
 UNIQUE-Colossal Consumption: While within 700 units of an enemy champion, charges for 2.3 seconds before dealing a huge strike against the enemy champion. This charged attack deals bonus physical damage equal to 140 + 3.5% of maximum health, and grants maximum health equal to 15% of the damage dealt. The charge for each target has a 20-second cooldown.   
 
 Imagen: https://www.wildriftfire.com/images/items/heartsteel.png
@@ -35,6 +38,7 @@ DIVINE SUNDERER (3400)
 +425 HEALTH
 +25 ATTACK DAMAGE
 +25 ABILITY HASTE
+
 UNIQUE PASSIVE SPELLBLADE: After using an ability, your next attack within 10 seconds will deal 10% of target's maximum health as bonus physical damage (7% if the attack is ranged). If the target is a champion, heal for 6% of the target's maximum health (2.5% if the attack is ranged) (1.5 second cooldown). Damage reduced vs structures.   
 
 Imagen: https://www.wildriftfire.com/images/items/divine-sunderer.png
@@ -57,6 +61,7 @@ TRINITY FORCE (3333)
 +30 ATTACK DAMAGE
 +30% ATTACK SPEED
 +25 ABILITY HASTE
+
 UNIQUE-Fervor: +5% movement speed
 
 UNIQUE - SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals 200% base AD bonus physical damage on-hit. (1.5 second cooldown which begins after using the empowered attack)   
@@ -73,6 +78,7 @@ ZEKE'S CONVERGENCE (2700)
 +40 ARMOR
 +150 MANA
 +15 ABILITY HASTE
+
 UNIQUE HARBINGER: Casting your Ultimate surrounds you with a blizzard for 10 seconds. The blizzard deals a maximum of 630-1050 damage, slows nearby enemies by 25%, and leaves a trail behind you. Allied champions on the trail gain 35 bonus Movement Speed for 1 second. (30s cooldown)
 
 Imagen: https://www.wildriftfire.com/images/items/zekes-convergence.png
@@ -85,6 +91,7 @@ PLATED STEELCAPS (1000)
 +35 ARMOR
 +45 MOVEMENT SPEED
 +100% Health Regen
+
 UNIQUE BLOCK: Reduces physical damage taken by 7-10% (based on level)
 
 Limited to 1 Boots item.
@@ -99,6 +106,7 @@ MERCURY'S TREADS (1000)
 +35 MAGIC RESIST
 +45 MOVEMENT SPEED
 +100% Health Regen
+
 UNIQUE DISSOLVE: Reduces magic damage taken by 7%-12% (based on level)
 
 Limited to 1 Boots item.
@@ -113,6 +121,7 @@ AWAKENED SOULSTEALER (3000)
 +65 ABILITY POWER
 +20 ABILITY HASTE
 +7% MAGIC PENETRATION
+
 Unique Passive-Soul Hunt: +15 magical penetration
 
 Unique Passive- Wandering Soul: Every time you take down an enemy champion within 3 seconds of damaging them, your ability cooldowns are reduced by 25%. You steal 10% of their base Movement Speed for 10 seconds and 50% of their Ability Haste until they respawn. Ability Haste stolen this way stacks.
@@ -125,6 +134,7 @@ INFINITY ORB (2900)
 
 +85 ABILITY POWER
 +7% MAGIC PENETRATION
+
 UNIQUE DESTINY: +5% movement speed
 
 UNIQUE BALANCE: +15 magic penetration
@@ -140,6 +150,7 @@ WARMOG'S ARMOR (2950)
 +700 HEALTH
 +200 HEALTH REGENERATION
 +10 ABILITY HASTE
+
 UNIQUE - WARMOG'S HEART: If you have at least 950 bonus health, regenerate 4.5% maximum health per second if you haven't taken damage within the last 6 seconds.
 
 Imagen: https://www.wildriftfire.com/images/items/warmogs-armor.png
@@ -150,6 +161,7 @@ ANCIENT COIN (600)
 
 +80 HEALTH
 +5 ABILITY HASTE
+
 Charge once per 30 seconds (max 3 charges). Every minion nearby taken down will grant gold by consuming 1 charge, and regenerates 20-80 health.
 
 Champions equipped with Ancient Coin do not engage in minion bounty allocation and grant 50% of bounty solely, the bounty from minions taken down will be fully provided to the nearest ally. Grants only 50% gold from monsters.   
@@ -169,6 +181,7 @@ HARMONIC ECHO (2700)
 +55 ABILITY POWER
 +10 ABILITY HASTE
 +10% HEAL AND SHIELD STRENGTH
+
 UNIQUE - HARMONIC ECHO: Moving and casting abilities builds Harmony. At 100 Harmony your next healing or shielding ability on an ally other than yourself restores 150 (+15% AP) health to your target. If the target's health is below 40%, healing potency is increased to 150% of the original.   
 
 Imagen: [https://www.wildriftfire.com/images/items/harmonic-echo.png](https://www://[se quitó una URL no válida])
@@ -179,6 +192,7 @@ BLADE OF THE RUINED KING (3200)
 
 +25 ATTACK DAMAGE
 +35% ATTACK SPEED
+
 UNIQUE - THIRST: +10% Physical Vamp
 
 UNIQUE - RUINED STRIKES: Basic attacks deal (9% Melee/6% Ranged) of target's current health bonus physical damage. Deals a minimum of 15 damage and against monsters deals a maximum of 60 damage.
@@ -193,6 +207,7 @@ YOUMUU'S GHOSTBLADE (3000)
 
 +55 ATTACK DAMAGE
 +15 ABILITY HASTE
+
 UNIQUE - SLICE: +15 armor penetration
 
 UNIQUE - MOMENTUM: Moving builds Momentum, granting a maximum of 40 bonus movement speed at 100 stacks. Attacking removes all Momentum. Momentum decays while movement is impaired.
@@ -207,6 +222,7 @@ TERMINUS (3400)
 
 +35 ATTACK DAMAGE
 +30% ATTACK SPEED
+
 UNIQUE - Shadow Attacks deal 35 bonus magic damage on-hit.
 
 UNIQUE - Juxtaposition: Alternate between Light and Dark on-hits when attacking. Light attacks grant 5 Armor and Magic Resist for 5 seconds on hit. Dark attacks grant 10% Armor Pen and Magic Pen for 5 seconds on hit. The upper limit of armor and magic penetration rates is 40% when equipped. Each on-hit effect stacks up to 3 times.
@@ -219,6 +235,7 @@ RANDUIN'S OMEN (2800)
 
 +400 HEALTH
 +75 ARMOR
+
 UNIQUE - Countercurrent: When you are critically struck by physical damage, gain 1 stack of Countercurrent. Each stack of Countercurrent grants 5% Critical Strike damage reduction. Stacks up to 4 times. Upon reaching full stacks, grants 20% bonus Movement Speed and slow resist equal to 20% plus 0.5% of bonus Health.
 
 Imagen: https://www.wildriftfire.com/images/items/randuins-omen.png
@@ -229,6 +246,7 @@ FORCE OF NATURE (2750)
 
 +350 HEALTH
 +55 MAGIC RESIST
+
 UNIQUE - Storm: +5% Movement Speed
 
 UNIQUE - Absorb: When receiving skill damage, you gain a 7-second firmness layer, which can be stacked up to 6 times; dealing damage to champions can refresh the duration of the layer. At 6 stacks, gain 10% movement speed and reduce all magic damage taken by 25%.   
@@ -243,6 +261,7 @@ OCEANID'S TRIDENT (2600)
 +80 ABILITY POWER
 +10 ABILITY HASTE
 +7% MAGIC PENETRATION
+
 UNIQUE - Lethal Weapon: Dealing ability damage to an enemy champion reduces any shields they gain for 1s (Area of effect abilities apply 5% of bonus Ability Power + 25% shield reduction, capped at 40, while single target abilities apply 5% of bonus Ability Power + 40% shield reduction, capped at 60). When you damage an enemy who is unaffected by Lethal Weapon, all shields on them are reduced by the same values.   
 
 Imagen: https://www.wildriftfire.com/images/items/oceanids-trident.png
@@ -254,6 +273,7 @@ SUNDERED SKY (2900)
 +300 HEALTH
 +40 ATTACK DAMAGE
 +15 ABILITY HASTE
+
 UNIQUE - Lightshield Strike: The first attack against an enemy champion critically strikes (1s cooldown per target), dealing 100% damage and restoring Health (equal to 125% of base Attack Damage + 9% of missing Health) to you.
 
 Imagen: https://www.wildriftfire.com/images/items/sundered-sky.png
@@ -265,6 +285,7 @@ DEATH'S DANCE (3000)
 +40 ARMOR
 +35 ATTACK DAMAGE
 +15 ABILITY HASTE
+
 Unique - Cauterize: 32% of physical damage received (12% for ranged champions) is dealt to you over 3 seconds as true damage instead.
 
 Unique - Dance: Champion takedowns cleanse Cauterize's remaining damage pool and restores 10% of your maximum health over 2 seconds.
@@ -278,6 +299,7 @@ MAW OF MALMORTIUS (3000)
 +45 MAGIC RESIST
 +35 ATTACK DAMAGE
 +10 ABILITY HASTE
+
 UNIQUE - Demonbane: 20% of the damage dealt by basic attacks or 15% physical damage dealt by abilities is converted into a magic shield that absorbs up to 60-100 magic damage.
 
 Imagen: https://www.wildriftfire.com/images/items/maw-of-malmortius.png
@@ -289,6 +311,7 @@ BERSERKER'S GREAVES (1400)
 +20 ATTACK DAMAGE
 +35% ATTACK SPEED
 +45 MOVEMENT SPEED
+
 Imagen: https://www.wildriftfire.com/images/items/berserkers-greaves.png
 
 ________________________________________
@@ -297,6 +320,7 @@ GLUTTONOUS GREAVES (1000)
 
 +35 ATTACK DAMAGE
 +45 MOVEMENT SPEED
+
 UNIQUE - Conversion: +7% Omnivamp
 
 Limited to 1 Boots item.
@@ -310,6 +334,7 @@ BOOTS OF MANA (1400)
 +55 ABILITY POWER
 +45 MOVEMENT SPEED
 +150% Mana Regen
+
 UNIQUE - Magic Break: +8 Magic penetration
 
 Imagen: https://www.wildriftfire.com/images/items/boots-of-mana.png
@@ -322,6 +347,7 @@ ARDENT CENSER (2800)
 +35 ABILITY POWER
 +20 ABILITY HASTE
 +10% HEAL AND SHIELD STRENGTH
+
 UNIQUE CENSER: When you heal or shield an allied champion other than yourself, they gain 15-40% Attack Speed, and their basic attacks deal 20-40 bonus magic damage.
 
 Imagen: https://www.wildriftfire.com/images/items/ardent-censer.png
@@ -332,6 +358,7 @@ AMARANTH'S TWINGUARD (3100)
 
 +60 ARMOR
 +60 MAGIC RESIST
+
 UNIQUE ENDURANCE: While in combat with enemy champions, gain a stack of Endurance each second. When you reach 5 stacks of Endurance, gain 20% size, 20% tenacity, and increase your armor and magic resistance by 30% until you leave combat with champions.   
 
 Imagen: https://www.wildriftfire.com/images/items/amaranths-twinguard.png
@@ -339,6 +366,7 @@ Imagen: https://www.wildriftfire.com/images/items/amaranths-twinguard.png
 ________________________________________
 
 PROTOBELT (500)
+
 
 UNIQUE-PROTOBELT: Dash forward and unleash a cone of missiles that deal 70 (based on level) magic damage. If champions or monsters are hit by more than one missile, the additional missiles deal only 7 damage. (60 second cooldown)   
 
@@ -351,6 +379,7 @@ ________________________________________
 RELIC SHIELD (500)
 
 +125 HEALTH
+
 UNIQUE PASSIVE Spoils of War: Gain 1 charge every 30 seconds (max 3 charges). When attacking minions, you consume a charge and execute minions below 65% health, granting full bounty to ally champions and bonus 15 gold to yourself and healing you for 15-65. Champions equipped with Relic Shield do not engage in minion bounty allocation and grant 50% of bounty solely, the bounty from minions taken down will be fully provided to the nearest ally. Grant only 50% gold from monsters.   
 
 UNIQUE PASSIVE-Quest: Transform to Bulwark of the Mountain after granting 750 gold.
@@ -389,6 +418,7 @@ ________________________________________
 
 GARGOYLE (500)
 
+
 UNIQUE-STONEPLATE: Gain a shield that absorbs damage equal to 20% of max Health. The shield decays over 4 seconds. The shield value increases by 100% of max Health per enemy nearby, capped at 3 enemies. Damage dealt is reduced by 40% for 4 seconds.
 
 Limited to 1 Boots enchantment.
@@ -401,6 +431,7 @@ THORNMAIL (2700)
 
 +200 HEALTH
 +75 ARMOR
+
 UNIQUE-THORNS: When hit by an enemy champion's attack, deal 20 (+6% bonus armor + 2% bonus health) magic damage to the attacker, inflicting 50% Grievous Wounds for 3 seconds.
 
 Imagen: https://www.wildriftfire.com/images/items/thornmail.png
@@ -413,6 +444,7 @@ CROWN OF THE SHATTERED QUEEN (3000)
 +60 ABILITY POWER
 +20 ABILITY HASTE
 +7% MAGIC PENETRATION
+
 Safeguard: Grant a spell shield that blocks the next enemy ability. When the shield is broken, reduce incoming damage by 40% for 1s. (40s cooldown)
 
 Poise: Ability Power increases by 20 while Safeguarded
@@ -427,6 +459,7 @@ WIT'S END (2700)
 
 +45 MAGIC RESIST
 +45% ATTACK SPEED
+
 UNIQUE- AT Wir's End: Basic attacks deal 15-65 (based on level) bonus magic damage on-hit. While below 50% health, dealing damage to an enemy champion heals you for (Melee 100%/Ranged 33%) of this effect's post-mitigation damage.   
 
 Imagen: https://www.wildriftfire.com/images/items/wits-end.png
@@ -439,6 +472,7 @@ SPIRIT VISAGE (2800)
 +100 HEALTH REGENERATION
 +50 MAGIC RESIST
 +20 ABILITY HASTE
+
 UNIQUE (BLESSED): Increases heals and shields on yourself by 30%
 
 Imagen: https://www.wildriftfire.com/images/items/spirit-visage.png
@@ -451,6 +485,7 @@ ICEBORN GAUNTLET (3100)
 +50 ARMOR
 +250 MANA
 +25 ABILITY HASTE
+
 UNIQUE SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals 100% base AD bonus physical damage + 25% bonus armor on-hit. It also deals 100% base AD physical damage to enemies surrounding the target and creates an icy zone for 2 seconds, which slows enemies within by 30%. The zone has a radius of 180 (+55% bonus armor) units. The damage is reduced against structures. (1.5 second cooldown which begins after using the empowered attack)   
 
 Imagen: https://www.wildriftfire.com/images/items/iceborn-gauntlet.png
@@ -463,6 +498,7 @@ PROTECTOR'S VOW (2700)
 +40 ARMOR
 +10 ABILITY HASTE
 +5% HEAL AND SHIELD STRENGTH
+
 UNIQUE PROTECTOR: Raise your Guard when next to an allied champion. If you or your ally take damage from a champion, monster, or turret, both of you receive a 125 (+30% bonus health) shield for 1.5 seconds. (20 second cooldown)   
 
 Imagen: https://www.wildriftfire.com/images/items/protectors-vow.png
@@ -474,6 +510,7 @@ YORDLE TRAP (2500)
 +350 HEALTH
 +40 ARMOR
 +15 ABILITY HASTE
+
 Catcher: After applying crowd control effects that displace the enemy, gain 30% Movement Speed for 3 seconds and mark the target, reducing their Armor and Magic Resist by 5-12 for 5 seconds. If the target dies while they are marked, you and nearby allies gain 200-300 bonus gold in total. The bonus gold can only be earned once every 10 seconds.
 
 Imagen: https://www.wildriftfire.com/images/items/yordle-trap.png
@@ -484,6 +521,7 @@ ECLIPSE (2900)
 
 +60 ATTACK DAMAGE
 +20 ABILITY HASTE
+
 Ever Rising Moon: Hitting an enemy champion with 2 separate attacks or abilities within 1.5 seconds deals bonus physical damage equal to 6% of the target's Max Health (3% for ranged champions) and grants you a shield that absorbs damage equal to 140 + 35% bonus Attack Damage (70 + 18% bonus Attack Damage for ranged champions) for 2 seconds. (15s cooldown)   
 
 Imagen: https://www.wildriftfire.com/images/items/eclipse.png
@@ -523,6 +561,7 @@ STAFF OF FLOWING WATER (2500)
 +45 ABILITY POWER
 +20 ABILITY HASTE
 +10% HEAL AND SHIELD STRENGTH
+
 UNIQUE - Rapid: Healing or shielding an ally grants you both 15 Ability Haste and 20-40 Ability Power (based on target's level) for 6 seconds.
 
 Imagen: https://www.wildriftfire.com/images/items/staff-of-flowing-water.png
@@ -534,6 +573,7 @@ LIANDRY'S TORMENT (3000)
 +250 HEALTH
 +75 ABILITY POWER
 +7% MAGIC PENETRATION
+
 UNIQUE TORMENT: Damaging abilities or empowered attacks deal 10.49% + 0.005% AP) of enemy's max Health as bonus magic damage each second, over 3 seconds.
 
 Imagen: https://www.wildriftfire.com/images/items/liandrys-torment.png
@@ -546,6 +586,7 @@ LUDEN'S ECHO (3000)
 +85 ABILITY POWER
 +20 ABILITY HASTE
 +7% MAGIC PENETRATION
+
 UNIQUE DISCORDIC ECHO: Moving and casting abilities builds Discord. At 100 Discord your next damaging ability deals 110 (+10% AP) bonus magic damage to your target and up to 3 nearby enemies.
 
 Imagen: https://www.wildriftfire.com/images/items/ludens-echo.png
@@ -557,6 +598,7 @@ NAVORI QUICKBLADES (3000)
 +45 ATTACK DAMAGE
 +25% CRITICAL STRIKE CHANCE
 +15 ABILITY HASTE
+
 UNIQUE - Deft Strikes: Your critical strikes with basic attacks reduce your non-ultimate ability cooldowns by 20% of their remaining cooldown.   
 
 Imagen: https://www.wildriftfire.com/images/items/navori-quickblades.png
@@ -568,6 +610,7 @@ STORMRAZOR (3000)
 +40 ATTACK DAMAGE
 +20% ATTACK SPEED
 +25% CRITICAL STRIKE CHANCE
+
 Energized: Moving and Attacking will generate an Energized Attack.
 
 Stormrazor: An Energized attack deals 65-135 bonus magic damage, slows the target by 50% for 0.75s, and grants you 45 Movement Speed for 0.75s.
@@ -580,6 +623,7 @@ EDGE OF NIGHT (3150)
 
 +250 HEALTH
 +50 ATTACK DAMAGE
+
 UNIQUE PASSIVE - Annul: Grants a spell shield that blocks the next enemy ability.
 
 PASSIVE - Gauge: +8 Armor Penetration.
@@ -593,6 +637,7 @@ IONIAN BOOTS OF LUCIDITY (1000)
 +150 HEALTH
 +30 ABILITY HASTE
 +45 MOVEMENT SPEED
+
 UNIQUE SUMMONED: Reduces summoner spell cooldowns by 15%
 
 Limited to 1 Boots item
@@ -605,6 +650,7 @@ SUNFIRE AEGIS (2900)
 
 +500 HEALTH
 +15 ABILITY HASTE
+
 UNIQUE IMMOLATE: Deals 16-25 magic damage +0.8% bonus HP per second to nearby enemies. Damaging champions or epic monsters with Immolate increases its damage by 11% for 5s, stacking up to 4 times. Immolate deals 150% bonus damage to minions and monsters.
 
 UNIQUE FLAME TOUCH: At max Immolate stacks, attacks burn enemies around you for 50% of Immolate's damage over 3 seconds. Immolate deals 1.77%-250 damage to minions and deals 150% damage to jungle monsters.
@@ -618,6 +664,7 @@ KAENIC ROOKERN (2800)
 +350 HEALTH
 +100 HEALTH REGENERATION
 +75 MAGIC RESIST
+
 Magebane: After not taking magic damage for 12 seconds, gain a magic shield that absorbs damage (equal to 70-100 + 10% of max Health)
 
 Imagen: https://www.wildriftfire.com/images/items/kaenic-rookern.png
@@ -627,6 +674,7 @@ ________________________________________
 STERAK'S GAGE (3000)
 
 +400 HEALTH
+
 UNIQUE STERAK'S FURY: Triggering LIFELINE increases size and grants 30% Tenacity for 8 seconds.
 
 UNIQUE-LIFELINE: If you would take damage that would reduce maximum health below 35%, you first gain a shield that absorbs 75% of your bonus health that decays over 3 seconds. (90 second cooldown)   
@@ -643,6 +691,7 @@ HORIZON FOCUS (2800)
 +80 ABILITY POWER
 +15 ABILITY HASTE
 +7% MAGIC PENETRATION
+
 Passive-Hypershot: When a non-targeted ability hits a champion at least 750 range away, it applies one stack, and when you immobilize a champion, add 2 stacks (stacks last for 5 seconds). After reaching 3 stacks, consume the stacks to deal 90-250 Ability Power magic damage and apply another stack.   
 
 Imagen: https://www.wildriftfire.com/images/items/horizon-focus.png
@@ -655,6 +704,7 @@ RIFTMAKER (3200)
 +80 ABILITY POWER
 +15 ABILITY HASTE
 +7% MAGIC PENETRATION
+
 UNIQUE-Assimilation: +11 Omnivamp
 
 UNIQUE-Void Corruption: When in combat with champions, gain 1 stack of Corruption every second. Each stack increases the damage you deal by 2.5%, up to 3 stacks. At maximum stacks, the additional damage provided by Corruption becomes true damage.
@@ -669,6 +719,7 @@ MORELLONOMICON (2600)
 +70 ABILITY POWER
 +20 ABILITY HASTE
 +7% MAGIC PENETRATION
+
 UNIQUE AFFLICTION: Dealing magic damage to enemy champions inflicts 50% Grievous Wounds for 3 seconds.
 
 Imagen: https://www.wildriftfire.com/images/items/morellonomicon.png
@@ -678,6 +729,7 @@ ________________________________________
 RUNAAN'S HURRICANE (3000)
 
 +35% ATTACK SPEED
+
 UNIQUE-Wind's Favor: Gain 20 Attack Damage or 40 Ability Power (Adaptive)
 
 UNIQUE Wind Blade: Attacks deal 15 bonus physical damage on hit against secondary targets.
@@ -692,6 +744,7 @@ IMMORTAL SHIELDBOW (3000)
 +15% ATTACK SPEED
 +25% CRITICAL STRIKE CHANCE
 +5 PHYSICAL VAMP
+
 UNIQUE Lifeline: Damage that would put you under 30% maximum health grants a shield in advance equal to 250-550 damage (increasing with levels) for 5 seconds. (90s Cooldown)
 
 UNIQUE-Battle Fumar: Triggering Lifeline will provide 8% physical vamp for 8 seconds.
@@ -705,6 +758,7 @@ BLACK CLEAVER (3000)
 +400 HEALTH
 +40 ATTACK DAMAGE
 +20 ABILITY HASTE
+
 UNIQUE SUNDER: Dealing physical damage to a champion reduces their Armor by 5% for 6 seconds, stacking up to 4 times for 24% reduction.
 
 UNIQUE RAGE: Gain 20 Movement Speed when you deal physical damage, and gain 40 Movement Speed when moving toward enemy champions with 4 Sunder stacks. Ranged champions gain halved values.
@@ -717,6 +771,7 @@ DUSKBLADE OF DRAKTHARR (3000)
 
 +55 ATTACK DAMAGE
 +10 ABILITY HASTE
+
 UNIQUE RAZOR: +18 armor penetration
 
 UNIQUE NIGHTSTALKER: First basic attack against an enemy champion causes 60-160 bonus physical damage and slows enemies by 99% for 0.35 seconds. Cooldown will be refreshed when an enemy has been taken down.
@@ -730,6 +785,7 @@ DAWNSHROUD (2700)
 +250 HEALTH
 +50 ARMOR
 +30 MAGIC RESIST
+
 UNIQUE-Dawnbringer: When you immobilize a champion or are immobilized, damage and reveal all nearby enemy champions for 3 seconds, dealing 80+5% bonus health as magic damage. (13 second cooldown)   
 
 Imagen: https://www.wildriftfire.com/images/items/dawnshroud.png
@@ -749,6 +805,7 @@ ________________________________________
 TITANIC HYDRA (3000)
 
 +450 HEALTH
+
 UNIQUE-Colossus: Gain Attack Damage equal to 15+2.5% bonus Health.
 
 UNIQUE- Cleave: Every 1.75 seconds, your next attack deals bonus physical damage equal to 25+ 3% bonus Health (also applies to turrets), creating a shockwave (530 range) that deals physical damage equal to 80+ 10% bonus Health to enemies behind the target. (Ranged champions deal 75% of the damage)   
@@ -761,6 +818,7 @@ BLOODTHIRSTER (3300)
 
 +50 ATTACK DAMAGE
 +25% CRITICAL STRIKE CHANCE
+
 UNIQUE-Bloody: +10% Physical Vamp
 
 UNIQUE-Bloodsworn: Gain 11-25 Attack Damage and 10% Attack Speed when your health is above 50%.
@@ -774,6 +832,7 @@ SPEAR OF SHOJIN (3200)
 +50 ATTACK DAMAGE
 +25 ABILITY HASTE
 +5 MOVEMENT SPEED
+
 UNIQUE-Dragon Awakening: Increases Ability Haste of basic abilities by 25% for 10 seconds after casting an Ultimate, and grants 25% bonus Movement Speed that decays over 3 seconds. Scoring a takedown within 10 seconds refreshes the ability's duration. (20s cooldown)
 
 Imagen: https://www.wildriftfire.com/images/items/spear-of-shojin.png
@@ -785,6 +844,7 @@ FROZEN HEART (2700)
 +80 ARMOR
 +200 MANA
 +25 ABILITY HASTE
+
 UNIQUE-Winter's Caress: Basic attacks and magic damage caused by you or inflicted upon you will apply stacks of Chill to the enemy champion for 3 seconds. Each stack of Chill slows enemy attack speed by up to a maximum of 4 stacks of 38% Attack Speed reduction. Each individual ability has a 3 second cooldown on applying Chill stacks.   
 
 Imagen: https://www.wildriftfire.com/images/items/frozen-heart.png
@@ -796,7 +856,9 @@ SOLARI CHARGEBLADE (3000)
 +40% ATTACK SPEED
 +25% CRITICAL STRIKE CHANCE
 +20 ABILITY HASTE
-UNIQUE-Sunburst: Using an ability gathers Radiance (max 3 charges) for up to 10 seconds. Attacks that hit expend a charge to deal 50-92 bonus magic damage on-hit. This bonus damage can critically strike. Each unique ability can only generate a charge every 2 seconds.   
+
+UNIQUE-Sunburst: Using an ability gathers Radiance (max 3 charges) for up to 10 seconds. Attacks that hit expend a charge to deal 50-92 bonus magic damage on-hit. This bonus damage can critically strike. Each 
+unique ability can only generate a charge every 2 seconds.   
 
 Imagen: https://www.wildriftfire.com/images/items/solari-chargeblade.png
 
@@ -806,6 +868,7 @@ BOOTS OF OUTBURST (1400)
 
 +30 ATTACK DAMAGE
 +45 MOVEMENT SPEED
+
 UNIQUE-Strike: +10 Armor penetration
 
 Imagen: https://www.wildriftfire.com/images/items/boots-of-outburst.png
@@ -818,6 +881,7 @@ REDEMPTION (2600)
 +300 MANA
 +20 ABILITY HASTE
 +5% HEAL AND SHIELD STRENGTH
+
 Eternity: Restore Mana equal to 15% of the damage taken from champions. When consuming Mana, restore health equal to 20% of mana consumed. Every 5 seconds, restore up to 15 bonus health. Salvation: Heal ally units in the range of 350 for (50+ 15% bonus health) every 8s. If no allied champions are around, Salvation will not be triggered.
 
 Imagen: https://www.wildriftfire.com/images/items/redemption.png
@@ -827,6 +891,7 @@ SEARING CROWN (2700)
 
 +300 HEALTH
 +50 ARMOR
+
 UNIQUE FIERY TOUCH: When the basic attack or skill deals damage, it burns the target for 3 seconds, causing magic damage equal to 1.4% of the target's maximum HP per second (when used by a ranged Champion, the damage is reduced to 0.8%)   
 
 Deals 150% damage to minions and monsters. Deals up to 125 damage to jungle monsters.   
@@ -840,6 +905,7 @@ MANTLE OF THE TWELFTH HOUR (2900)
 +200 HEALTH
 +40 ARMOR
 +40 MAGIC RESIST
+
 UNIQUE LIFELINE: Damage that puts you under 35% Health grants bonus max Health equal to 180-45% bonus Health over 3 seconds, and provides 50% Slow Resist and 30 Movement Speed for 3 seconds. (90s cooldown)
 
 Imagen: https://www.wildriftfire.com/images/items/mantle-of-the-twelfth-hour.png
@@ -850,6 +916,7 @@ DEAD MAN'S PLATE (2800)
 
 +250 HEALTH
 +50 ARMOR
+
 UNIQUE-RELENTLESS: +5% movement speed
 
 UNIQUE-MOMENTUM: Moving builds Momentum, granting up to 40 Move Speed at 100 stacks. Attacking removes all Momentum. Stacks decay when movement is impaired.
@@ -865,6 +932,7 @@ LICH BANE (2950)
 +80 ABILITY POWER
 +10 ABILITY HASTE
 +7% MAGIC PENETRATION
+
 UNIQUE-SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals 75% base AD (+50% AP) bonus magic damage on-hit. (1.5 second cooldown which begins after using the empowered attack)   
 
 UNIQUE BANE: +5% movement speed
@@ -877,6 +945,7 @@ INFINITY EDGE (3400)
 
 +60 ATTACK DAMAGE
 +25% CRITICAL STRIKE CHANCE
+
 UNIQUE INFINITY: Critical strikes deal 205% damage instead of 175%
 
 Imagen: https://www.wildriftfire.com/images/items/infinity-edge.png
@@ -888,6 +957,7 @@ SERPENT'S FANG (3000)
 
 +50 ATTACK DAMAGE
 +10 ABILITY HASTE
+
 Armor penetration: 15
 
 Shield Reaver: Dealing damage to an enemy champion reduces any shields they gain for 3s. Melee champions apply (10% of bonus Attack Damage + 40%) shield reduction, capped at 60% while ranged champions apply (10% of bonus Attack Damage + 25%) shield reduction, capped at 45%. When you damage an enemy who is unaffected by Shield Reaver, all shields on them are reduced by the same values.   
@@ -900,6 +970,7 @@ MAGNETIC BLASTER (2900)
 
 +35% ATTACK SPEED
 +25% CRITICAL STRIKE CHANCE
+
 Fervor: 5% Movement Speed
 
 Energized: Moving and attacking will generate an Energized Attack.
@@ -914,6 +985,7 @@ GUARDIAN ANGEL (3400)
 
 +40 ARMOR
 +40 ATTACK DAMAGE
+
 UNIQUE-RESURRECT: Upon taking lethal damage, resurrects and restores 50% of base health and 30% of maximum mana after 4 seconds of stasis. (210 second cooldown)   
 
 Imagen: https://www.wildriftfire.com/images/items/guardian-angel.png
@@ -923,6 +995,7 @@ NASHOR'S TOOTH (3000)
 
 +40% ATTACK SPEED
 +20 ABILITY HASTE
+
 UNIQUE Magic Fang: Gain 30 Attack Damage or 60 Ability Power (Adaptive)
 
 UNIQUE Gnaw: When the basic attack hits an enemy champion, it will cause 15+25% bonus attack power+25% bonus magic damage.
@@ -954,6 +1027,7 @@ WINTER'S APPROACH (2600)
 +350 HEALTH
 +500 MANA
 +10 ABILITY HASTE
+
 UNIQUE-AWE: Grants Ability Haste equal to 1% maximum mana. Refunds 15% of mana spent.
 
 UNIQUE-MANA CHARGE: Increases max Mana by 12 every attack, when Mana is spent or when taking damage from champions, epic monsters, or towers. Triggers up to 5 times every 12 seconds.   
@@ -971,6 +1045,7 @@ ESSENCE REAVER (3050)
 +40 ATTACK DAMAGE
 +25% CRITICAL STRIKE CHANCE
 +20 ABILITY HASTE
+
 UNIQUE-Flare: After attacking a champion, enhances your next damaging ability or empowered attack up to 30% based on Critical chance, with a 4 second cooldown. Cooldown is also reduced by 1 second after hitting a champion with an attack.
 
 UNIQUE-Mana Siphon: Attacks restore 3% missing Mana on-hit.
@@ -983,6 +1058,7 @@ SERYLDA'S GRUDGE (3100)
 
 +40 ATTACK DAMAGE
 +15 ABILITY HASTE
+
 UNIQUE-LAST WHISPER: +33% armor penetration.
 
 UNIQUE: Damaging active abilities and empowered attacks slow enemies by 30% for 1 second.
@@ -996,6 +1072,7 @@ PHANTOM DANCER (3000)
 +25 ATTACK DAMAGE
 +30% ATTACK SPEED
 +25% CRITICAL STRIKE CHANCE
+
 UNIQUE-SPECTRAL WALTZ: Gain 7% extra movement speed when you basic attack for 3 seconds. After attacking 4 times, gain an additional 25% attack speed for the same duration.   
 
 Imagen: https://www.wildriftfire.com/images/items/phantom-dancer.png
@@ -1018,6 +1095,7 @@ CRYSTALLINE REFLECTOR (3000)
 +40 ARMOR
 +70 ABILITY POWER
 +7% MAGIC PENETRATION
+
 UNIQUE-Mirrored Force: Gain the mirror shard for 3 seconds each time while casting champion abilities, the duration time of the fragment can not be stacked. During the fragment's existence, it blocks 8-25 physical damage from the enemy champion, and deals 10 + 3% ability power + 1% bonus health magic damage.   
 
 Imagen: https://www.wildriftfire.com/images/items/crystalline-reflector.png
@@ -1029,6 +1107,7 @@ IMPERIAL MANDATE (2500)
 +200 HEALTH
 +40 ABILITY POWER
 +20 ABILITY HASTE
+
 Coordinate Fire: Abilities that slow or immobilize a champion deal 47-75 (based on level) bonus magic damage and mark them for 4 seconds (3s cooldown per champion). Ally champion damage detonates the mark, dealing an additional 94-150 (based on ally level) magic damage and granting you both 20% Move speed for 2 seconds.   
 
 Imagen: https://www.wildriftfire.com/images/items/imperial-mandate.png
@@ -1066,6 +1145,7 @@ Imagen: https://www.wildriftfire.com/images/items/archangels-staff.png
 ________________________________________
 
 SPECTRAL SICKLE
+
 PASSIVE - Versatile: Gain 10 attack damage or 20 ability power (adaptive).
 
 UNIQUE PASSIVE: Gain 1 charge every 30 seconds (max 3 charges). When near an ally, damaging abilities and attacks against champions or structures grant 65 gold by consuming 1 charge and regenerate 20-80 health. Champions equipped with Spectral Sickle do not engage in minion bounty allocation and grant 50% of bounty solely, the bounty from minions taken down will be fully provided to the nearest ally. Grant only 50% gold from monsters.
@@ -1110,6 +1190,7 @@ THE COLLECTOR (2900)
 
 +40 ATTACK DAMAGE
 +25% CRITICAL STRIKE CHANCE
+
 UNIQUE Kler: +10 Armor Penetration
 
 UNIQUE-Death and Taxes: Dealing damage that would leave an enemy champion below 5% of their maximum health executes them. Champion kills grant an additional 25 gold.
@@ -1123,6 +1204,7 @@ CHEMPUNK CHAINSWORD (2800)
 +250 HEALTH
 +45 ATTACK DAMAGE
 +15 ABILITY HASTE
+
 UNIQUE-Punishment: Dealing physical damage to enemy champions applies 50% Grievous Wounds for 3 seconds.
 
 Imagen: https://www.wildriftfire.com/images/items/chempunk-chainsword.png
@@ -1134,6 +1216,7 @@ MANAMUNE (2700)
 +25 ATTACK DAMAGE
 +300 MANA
 +20 ABILITY HASTE
+
 UNIQUE AWE: Grants bonus attack damage equal to 1.5% maximum mana. Refunds 15% of mana spent.
 
 UNIQUE-MANA CHARGE: Grants a charge every 8 seconds, up to 3 charges. Each basic attack on-hit or mana expenditure consumes a charge and grants +10 mana, up to a maximum of 700 mana.
@@ -1150,6 +1233,7 @@ RYLAI'S CRYSTAL SCEPTER (2700)
 
 +350 HEALTH
 +75 ABILITY POWER
+
 UNIQUE ICY: Damaging active abilities slow enemies by 30% for 1 second.
 
 Imagen: https://www.wildriftfire.com/images/items/rylais-crystal-scepter.png
@@ -1161,6 +1245,7 @@ MEJAI'S SOULSTEALER (1000)
 +70 HEALTH
 +25 ABILITY POWER
 +7% MAGIC PENETRATION
+
 Glory: Gain Glory stacks when engaging in taking down enemy champions, up to a maximum of 30 stacks. Lose 10 stacks on Death. Melee champions gain 3 stacks for each champion kill and 2 stacks for each assist. Ranged champions gain 4 stacks for each champion kill and 2 stacks for each assist.
 Fear: Gain 5 Ability Power for each stack of Glory, and 10% bonus movement speed once you reach at least 10 stacks of Glory.
 

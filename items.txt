@@ -1247,6 +1247,7 @@ MEJAI'S SOULSTEALER (1000)
 +7% MAGIC PENETRATION
 
 Glory: Gain Glory stacks when engaging in taking down enemy champions, up to a maximum of 30 stacks. Lose 10 stacks on Death. Melee champions gain 3 stacks for each champion kill and 2 stacks for each assist. Ranged champions gain 4 stacks for each champion kill and 2 stacks for each assist.
+
 Fear: Gain 5 Ability Power for each stack of Glory, and 10% bonus movement speed once you reach at least 10 stacks of Glory.
 
 Imagen: https://www.wildriftfire.com/images/items/mejais-soulstealer.png

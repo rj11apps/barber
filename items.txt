@@ -418,7 +418,6 @@ ________________________________________
 
 GARGOYLE (500)
 
-
 UNIQUE - STONEPLATE: Gain a shield that absorbs damage equal to 28% of max Health. The shield decays over 4 seconds. The shield value increases by 10% of max Health per enemy nearby, capped at 3 enemies. Damage dealt is reduced by 40% for 4 seconds.
 
 Limited to 1 Boots enchantment.
@@ -763,6 +762,7 @@ Imagen: https://www.wildriftfire.com/images/items/black-cleaver.png
 ________________________________________
 
 MALIGNANCE (3000)
+
 +400 MANA
 +75 ABILITY POWER
 +20 ABILITY HASTE
@@ -833,6 +833,7 @@ UNIQUE - BLOODSWORN: Gain 11 - 25 Attack Damage and 10% Attack Speed when your h
 Imagen: https://www.wildriftfire.com/images/items/bloodthirster.png
 
 ________________________________________
+
 SPEAR OF SHOJIN (3200)
 
 +300 HEALTH
@@ -892,6 +893,7 @@ Eternity: Restore Mana equal to 15% of the damage taken from champions. When con
 Imagen: https://www.wildriftfire.com/images/items/redemption.png
 
 ________________________________________
+
 SEARING CROWN (2700)
 
 +300 HEALTH
@@ -953,7 +955,6 @@ UNIQUE - INFINITY: Critical strikes deal 205% damage instead of 175%.
 Imagen: https://www.wildriftfire.com/images/items/infinity-edge.png
 
 ________________________________________
-
 
 SERPENT'S FANG (3000)
 
@@ -1139,6 +1140,7 @@ Imagen: https://www.wildriftfire.com/images/items/psychic-projector.png
 ________________________________________
 
 ARCHANGEL'S STAFF (3000)
+
 +500 MANA
 +35 ABILITY POWER
 +20 ABILITY HASTE
@@ -1170,7 +1172,8 @@ Imagen: https://www.wildriftfire.com/images/items/spectral-sickle.png
 
 ________________________________________
 
-ROD OF AGES
+ROD OF AGES (2800)
+
 +250 HEALTH
 +300 MANA
 +60 ABILITY POWER
@@ -1198,7 +1201,6 @@ SPELLWEAVER: Damaging active abilities and empowered attacks on an enemy champio
 Imagen: https://www.wildriftfire.com/images/items/cosmic-drive.png
 
 ________________________________________
-
 
 THE COLLECTOR (2900)
 
@@ -1254,15 +1256,13 @@ Imagen: https://www.wildriftfire.com/images/items/rylais-crystal-scepter.png
 
 ________________________________________
 
-
-
 HEXTECH GLP- 800 (500)
 
 FROST BOLT: Fire a spray of icy bolts that explode on first enemy hit, dealing magic damage equal to 40–75 plus 20% Ability Power. (30s cooldown) Enemies hit are slowed by 90%, decaying to 30% plus 0.035% Ability Power over 2s.
 
 Imagen: https://www.wildriftfire.com/images/items/hextech-glp-800.png
-________________________________________
 
+________________________________________
 
 MEJAI'S SOULSTEALER (1800)
 

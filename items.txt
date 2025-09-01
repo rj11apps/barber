@@ -822,7 +822,7 @@ RYLAI'S CRYSTAL SCEPTER (2700)
 
 UNIQUE - ICY: Damaging active abilities slow enemies by 30% for 1 second.  
 
-Imagen: https://www.wildriftfire.com/images/items/rylai-crystal-scepter.png  
+Imagen: https://www.wildriftfire.com/images/items/rylais-crystal-scepter.png  
 
 ________________________________________
 
@@ -1340,5 +1340,6 @@ Limited to 1 AWE item.
 Imagen: https://www.wildriftfire.com/images/items/winters-approach.png  
 
 ________________________________________
+
 
 

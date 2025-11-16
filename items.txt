@@ -530,6 +530,18 @@ Imagen: https://www.wildriftfire.com/images/items/heartsteel.png
 
 ________________________________________
 
+RADIANT VIRTUE (2850)
+
++300 Health
++45 Armor
++15 Ability Haste
+
+Guiding Light: Upon Casting your ultimate ability, you Transcend, increasing your Max Health by 10% for 6s. While Transcended, you and allied champions within 1200 units of you heal for 3% of your max Health per second over the duration (60s Cooldown). ( Heals reduced by 50% for ranged champions)
+
+Imagen: https://www.wildriftfire.com/images/items/radiant-virtue.png
+
+________________________________________
+
 BERSERKER'S GREAVES (1400)  
 
 +20 Attack Damage  
@@ -637,24 +649,6 @@ STRIDEBREAKER (500)
 ACTIVE - BREAKING SHOCKWAVE: Activate to dash a short distance, dealing 150% Attack Damage as Physical Damage to nearby enemies and slowing them by 30% for 3s. (35s Cooldown)  
 
 Imagen: https://www.wildriftfire.com/images/items/stridebreaker.png  
-
-________________________________________
-
-MAGNETRON (500)  
-
-Cast in a target direction. If you hit an allied minion, allied champion, or wall, you dash to them and gain 30% Movement Speed for 1.5s. If no target is hit, 50% of cooldown is refunded. (50 second cooldown)  
-
-Imagen: https://www.wildriftfire.com/images/items/magnetron.png  
-
-________________________________________
-
-REPULSOR (500)  
-
-After a delay of 0.5s, knock back and stun nearby enemies for 1.25s. (40 second cooldown)  
-
-After knocking back a champion, gain 30% Movement speed for 3s.  
-
-Imagen: https://www.wildriftfire.com/images/items/repulsor.png  
 
 ________________________________________
 
@@ -857,8 +851,9 @@ RANDUIN'S OMEN (2800)
 
 +400 Health  
 +75 Armor  
-
-UNIQUE - Countercurrent: When you are Critically Struck by physical damage, gain 1 stack of Countercurrent. Each stack of Countercurrent grants 5% Critical Strike damage reduction. Stacks up to 4 times. Upon reaching full stacks, grants 20% bonus Movement Speed and slow resist equal to 20% plus 0.5% of bonus Health.  
+ 
+UNIQUE - Countercurrent:  Gain a stack of Countercurrent when Critically Struck. Each Stack of Countercurrent grants 5% Movement Speed and 5% Slow Resist, Max 4 stacks.
+UNIQUE - Resilience: Critical Strikes deal 20% less damage to you.
 
 Imagen: https://www.wildriftfire.com/images/items/randuins-omen.png  
 
@@ -1156,7 +1151,7 @@ DAWNSHROUD (2700)
 +50 Armor  
 +30 Magic Resist  
 
-UNIQUE - Dawnbringer: When you immobilize a champion or are immobilized, damage and reveal all nearby enemy champions for 3 seconds, dealing 80+5% bonus health, as magic damage (3 second cooldown).  
+UNIQUE - Dawnbringer: When you immobilize a champion or are immobilized, damage and reveal all nearby enemy champions for 3 seconds, dealing 40 + 2.5% bonus health, as magic damage, increase your Armor and Magic Resistance by 20 (3 second cooldown).
 
 Imagen: https://www.wildriftfire.com/images/items/dawnshroud.png  
 
@@ -1201,16 +1196,6 @@ Imagen: https://www.wildriftfire.com/images/items/edge-of-night.png
 
 ________________________________________
 
-RAVENOUS HYDRA (500)  
-
-Ravenous Crescent - When activated, your attacks over the next 9s deal physical damage equal to Attack Damage as splash damage to nearby enemies. Melee attacks deal splash damage in a bigger area than ranged attacks. (30s cooldown).  
-
-Deals 50% damage to minions and monsters. (10s cooldown)  
-
-Imagen: https://www.wildriftfire.com/images/items/ravenous-hydra.png  
-
-________________________________________
-
 ICEBORN GAUNTLET (3100)  
 
 +250 Health  
@@ -1245,16 +1230,6 @@ Imagen: https://www.wildriftfire.com/images/items/dream-maker.png
 
 ________________________________________
 
-HEXTECH GLP-800 (500)  
-
-FROST BOLT: Fire a spray of icy bolts that explode on first enemy hit, dealing magic damage equal to 40–75 plus 20% Ability Power. (30s cooldown)  
-
-Enemies hit are slowed by 90%, decaying to 30% plus 0.035% Ability Power over 2s.  
-
-Imagen: https://www.wildriftfire.com/images/items/hextech-glp-800.png  
-
-________________________________________
-
 ROD OF AGES (2800)  
 
 +250 Health  
@@ -1273,12 +1248,11 @@ ________________________________________
 
 PROTECTOR'S VOW (2700)  
 
-+400 Health  
++250 Health  
 +40 Armor  
-+10 Ability Haste  
-+5% Heal and Shield Strength  
++40 Magic Resist
 
-UNIQUE - PROTECTOR: Raise your Guard when next to an allied champion. If you or your ally take damage from a champion, monster, or turret, both of you receive a 125 (+30% bonus health) shield for 1.5 seconds. (20 second cooldown)  
+UNIQUE - PROTECTOR: Raise your Guard when next to an allied champion. If you or your ally take damage from a champion, monster, or turret, both of you receive a 100 (+30% bonus health) shield for 1.5 seconds. Each time you take damage from an enemy champion's attack or ability, this effect's cooldown is reduced by 1 second. (20 second cooldown)
 
 Imagen: https://www.wildriftfire.com/images/items/protectors-vow.png  
 
@@ -1340,6 +1314,7 @@ Limited to 1 AWE item.
 Imagen: https://www.wildriftfire.com/images/items/winters-approach.png  
 
 ________________________________________
+
 
 
 
